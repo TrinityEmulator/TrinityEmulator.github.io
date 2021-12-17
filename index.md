@@ -8,7 +8,7 @@
 ### Table of Content
 
 * [Introduction](#Introduction)
-* [Codebase Organization](#Codebase Organization)
+* [Codebase](#Codebase)
 * [Install and Run](#Install and Run)
   * [Prerequisites](#Prerequisites)
   * [Running](#Running)
@@ -23,9 +23,11 @@ the coupling between the guest-side and host-side graphics processing and thus k
 
 This repository contains code and binary of Trinity, as well as measurement data involved in our study.
 
-### Codebase Organization
+### Codebase
 
-*Currently we are scrutinizing the anonymity issues of our code. This may take a while as the codebase is quite large (>100K LoC). We will release Trinity's code in a module-by-module manner as soon as we have finished examining a module and acquire its release permission from the authority.*
+*Currently we are scrutinizing possible anonymity violation code. This may take a while as the codebase is quite large (>100K LoC). We will release Trinity's code in a module-by-module manner as soon as we have finished examining a module and acquire its release permission from the authority.*
+
+The released part can be found [here](https://github.com/TrinityEmulator/TrinityEmulator).
 
 ### Install and Run
 
@@ -46,5 +48,5 @@ During booting, you may see an option to run without installation or to install 
 
 #### Measurement Data
 
-The measurement data involved in our evaluation will be hosted [here](https://drive.google.com/drive/folders/1OjvQdG02EX8Wx1TlncvO0fk888q1k5Mg?usp=sharing) in the next 1~2 days. We are now organizing them for easier understanding.
+The measurement data involved in our evaluation are hosted [here](https://drive.google.com/drive/folders/1OjvQdG02EX8Wx1TlncvO0fk888q1k5Mg?usp=sharing).
 

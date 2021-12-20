@@ -36,7 +36,7 @@ We have released Trinity's binary for you to check out on your own PC [here](htt
 #### Prerequisites
 
 1. Ensure that you have turned on Intel VT in the BIOS settings.
-2. Install Intel HAXM (instructions [here](https://github.com/intel/haxm/wiki))).
+2. Install Intel HAXM (instructions [here](https://github.com/intel/haxm/wiki)).
 
 And then you are good to go!
 

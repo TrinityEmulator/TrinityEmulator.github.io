@@ -27,7 +27,7 @@ This repository contains code and binary of Trinity, as well as measurement data
 
 *Currently we are scrutinizing the codebase to avoid possible anonymity violation. This may take a while as the codebase is quite large (>100K LoC). We will release Trinity's code in a module-by-module manner as soon as we have finished examining a module and acquire its release permission from the authority.*
 
-The released part and the building instructions can be found [here](https://github.com/TrinityEmulator-Admin/TrinityEmulator).
+The released part and the building instructions can be found [here](https://github.com/TrinityEmulator/TrinityEmulator).
 
 ### Install and Run
 

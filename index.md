@@ -2,7 +2,7 @@
 
 ![version](https://img.shields.io/badge/Version-Beta-yellow "Beta")
 ![license](https://img.shields.io/badge/GuestOS-Androidx86-green "Android")
-![license](https://img.shields.io/badge/Licence-Apache%202.0-blue.svg "Apache")
+![license](https://img.shields.io/badge/Licence-GPLv2-blue.svg "Apache")
 
 
 ### Table of Content
@@ -23,11 +23,11 @@ the coupling between the guest-side and host-side graphics processing and thus k
 
 This repository contains code and binary of Trinity, as well as measurement data involved in our study.
 
-### Codebase
+### Codebase \& Build
 
 *Currently we are scrutinizing the codebase to avoid possible anonymity violation. This may take a while as the codebase is quite large (>100K LoC). We will release Trinity's code in a module-by-module manner as soon as we have finished examining a module and acquire its release permission from the authority.*
 
-The released part can be found [here](https://github.com/TrinityEmulator/TrinityEmulator).
+The released part and the building instructions can be found [here](https://github.com/TrinityEmulator/TrinityEmulator).
 
 ### Install and Run
 
@@ -46,7 +46,7 @@ We provide an automatic script for running Trinity. Therefore, all you need to d
 
 During booting, you may see an option to run without installation or to install provided by the Android-x86 system we host. The former allows you to quickly enjoy the journey but makes the virtual storage volatile (i.e., the next boot will erase all data), while the latter may involve more complex configurations (you can find them [here](https://www.android-x86.org/installhowto.html)).
 
-#### Measurement Data
+### Measurement Data
 
 The measurement data involved in our evaluation are hosted [here](https://drive.google.com/drive/folders/1OjvQdG02EX8Wx1TlncvO0fk888q1k5Mg?usp=sharing).
 

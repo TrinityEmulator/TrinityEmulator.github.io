@@ -23,7 +23,7 @@ the coupling between the guest-side and host-side graphics processing and thus k
 
 This repository contains code and binary of Trinity, as well as measurement data involved in our study.
 
-### Codebase \& Build
+### Codebase & Build
 
 *Currently we are scrutinizing the codebase to avoid possible anonymity violation. This may take a while as the codebase is quite large (>100K LoC). We will release Trinity's code in a module-by-module manner as soon as we have finished examining a module and acquire its release permission from the authority.*
 

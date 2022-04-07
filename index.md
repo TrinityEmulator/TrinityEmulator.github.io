@@ -25,13 +25,11 @@ This repository contains code and binary of Trinity, as well as measurement data
 
 ### Codebase & Build
 
-*Currently we are scrutinizing the codebase to avoid possible anonymity violation. This may take a while as the codebase is quite large (>100K LoC). We will release Trinity's code in a module-by-module manner as soon as we have finished examining a module and acquire its release permission from the authority.*
-
-The released part and the building instructions can be found [here](https://github.com/TrinityEmulator/TrinityEmulator).
+Currently we have released all the emulator's source [here](https://github.com/TrinityEmulator/TrinityEmulator). Our guest-side implementation is proprietary for now but the OS images can be found [here](https://github.com/TrinityEmulator/TrinityEmulator/releases/tag/Trinity-init-release). 
 
 ### Install and Run
 
-We have released Trinity's binary for you to check out on your own PC [here](https://drive.google.com/drive/folders/1-2s3oKei5XgpkhVPKF8quxxWTwWctm5-?usp=sharing) (Window+Intel version, other versions such as Mac and AMD are coming soon as we are doing minor bug fixes). Some prerequisites and instructions are listed below.
+We have released Trinity's binary for you to check out on your own PC [here](https://github.com/TrinityEmulator/TrinityEmulator/releases/tag/Trinity-init-release) (Window+Intel version, other versions such as Mac and AMD are coming soon as we are doing minor bug fixes). Some prerequisites and instructions are listed below.
 
 #### Prerequisites
 

@@ -25,7 +25,7 @@ This repository contains code and binary of Trinity, as well as measurement data
 
 ### Codebase & Build
 
-Currently we have released all the emulator's source [here](https://github.com/TrinityEmulator/TrinityEmulator). Our guest-side implementation is proprietary for now but the OS images can be found [here](https://github.com/TrinityEmulator/TrinityEmulator/releases/tag/Trinity-init-release). 
+Currently we have released all the emulator's source [here](https://github.com/TrinityEmulator/TrinityEmulator). Our guest-side implementation is proprietary for now but the OS images can be found [here](https://github.com/TrinityEmulator/TrinityEmulator/releases/tag/Trinity-Release). 
 
 ### Install and Run
 

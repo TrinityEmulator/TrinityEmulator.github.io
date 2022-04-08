@@ -46,5 +46,5 @@ During booting, you may see an option to run without installation or to install 
 
 ### Measurement Data
 
-The measurement data involved in our evaluation are hosted [here](https://drive.google.com/drive/folders/1OjvQdG02EX8Wx1TlncvO0fk888q1k5Mg?usp=sharing).
+The measurement data involved in our evaluation are hosted [here](https://github.com/TrinityEmulator/EvaluationScript).
 

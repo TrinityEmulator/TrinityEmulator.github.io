@@ -1,5 +1,3 @@
-## Trinity: Desirable Mobile Emulation through Graphics Projection
-
 ![version](https://img.shields.io/badge/Version-Beta-yellow "Beta")
 ![license](https://img.shields.io/badge/GuestOS-Androidx86-green "Android")
 ![license](https://img.shields.io/badge/Licence-GPLv2-blue.svg "Apache")
@@ -7,12 +5,8 @@
 
 ### Table of Content
 
-* [Introduction](#Introduction)
-* [Codebase](#Codebase)
-* [Install and Run](#Install and Run)
-  * [Prerequisites](#Prerequisites)
-  * [Running](#Running)
-* [Measurement Data](#Measurement Data)
+* TOC 
+{:toc}
 
 ### Introduction
 

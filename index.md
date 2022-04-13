@@ -1,6 +1,4 @@
-![version](https://img.shields.io/badge/Version-Beta-yellow "Beta")
-![license](https://img.shields.io/badge/GuestOS-Androidx86-green "Android")
-![license](https://img.shields.io/badge/Licence-GPLv2-blue.svg "Apache")
+![version](https://img.shields.io/badge/Version-Beta-yellow "Beta") ![license](https://img.shields.io/badge/GuestOS-Androidx86-green "Android") ![license](https://img.shields.io/badge/Licence-GPLv2-blue.svg "Apache") ![status](https://github.com/TrinityEmulator/TrinityEmulator/actions/workflows/main.yml/badge.svg)
 
 
 ### Table of Content

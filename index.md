@@ -1,10 +1,18 @@
-![version](https://img.shields.io/badge/Version-Beta-yellow "Beta") ![license](https://img.shields.io/badge/GuestOS-Androidx86-green "Android") ![license](https://img.shields.io/badge/Licence-GPLv2-blue.svg "Apache") ![status](https://github.com/TrinityEmulator/TrinityEmulator/actions/workflows/main.yml/badge.svg)
+## Trinity: Desirable Mobile Emulation through Graphics Projection
 
+![version](https://img.shields.io/badge/Version-Beta-yellow "Beta")
+![license](https://img.shields.io/badge/GuestOS-Androidx86-green "Android")
+![license](https://img.shields.io/badge/Licence-GPLv2-blue.svg "Apache")
+![status](https://github.com/TrinityEmulator/TrinityEmulator/actions/workflows/main.yml/badge.svg)
 
 ### Table of Content
 
-* TOC 
-{:toc}
+* [Introduction](#introduction)
+* [Codebase](#codebase--build)
+* [Install and Run](#install-and-Run)
+  * [Prerequisites](#prerequisites)
+  * [Running](#running)
+* [Measurement Data](#measurement-data)
 
 ### Introduction
 
@@ -39,4 +47,3 @@ During booting, you may see an option to run without installation or to install 
 ### Measurement Data
 
 The measurement data involved in our evaluation are hosted [here](https://github.com/TrinityEmulator/EvaluationScript).
-

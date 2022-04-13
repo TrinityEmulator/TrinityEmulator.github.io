@@ -7,12 +7,7 @@
 
 ### Table of Content
 
-* [Introduction](#Introduction)
-* [Codebase](#Codebase)
-* [Install and Run](#Install and Run)
-  * [Prerequisites](#Prerequisites)
-  * [Running](#Running)
-* [Measurement Data](#Measurement Data)
+* TOC {:toc}
 
 ### Introduction
 

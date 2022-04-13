@@ -9,7 +9,7 @@
 
 * [Introduction](#introduction)
 * [Codebase](#codebase--build)
-* [Install and Run](#install-and-Run)
+* [Install and Run](#install-and-run)
   * [Prerequisites](#prerequisites)
   * [Running](#running)
 * [Measurement Data](#measurement-data)

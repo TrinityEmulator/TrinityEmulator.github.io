@@ -7,7 +7,8 @@
 
 ### Table of Content
 
-* TOC {:toc}
+* TOC 
+{:toc}
 
 ### Introduction
 

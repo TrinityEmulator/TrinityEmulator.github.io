@@ -25,11 +25,11 @@ This repository contains code and binary of Trinity, as well as measurement data
 
 ### Codebase & Build
 
-Currently we have released all the emulator's source [here](https://github.com/TrinityEmulator/TrinityEmulator). Our guest-side implementation is proprietary for now but the OS images can be found [here](https://github.com/TrinityEmulator/TrinityEmulator/releases/tag/Trinity-Release). 
+Currently we have released all the emulator's source [here](https://github.com/TrinityEmulator/TrinityEmulator) and provide detailed guides on building Trinity. Our guest-side implementation is proprietary for now but the OS images can be found [here](https://github.com/TrinityEmulator/TrinityEmulator/releases/tag/Trinity-Release). 
 
 ### Install and Run
 
-We have released Trinity's binary for you to check out on your own PC [here](https://github.com/TrinityEmulator/TrinityEmulator/releases/tag/Trinity-init-release) (Window+Intel version, other versions such as Mac and AMD are coming soon as we are doing minor bug fixes). Some prerequisites and instructions are listed below.
+We have released Trinity's binary for you to check out on your own PC [here](https://github.com/TrinityEmulator/TrinityEmulator/releases/tag/Trinity-Release) (Window+Intel version, other versions such as Mac and AMD are coming soon as we are doing minor bug fixes). Some prerequisites and instructions are listed below.
 
 #### Prerequisites
 
@@ -40,9 +40,9 @@ And then you are good to go!
 
 #### Running
 
-We provide an automatic script for running Trinity. Therefore, all you need to do is download the guest system's ISO, Trinity binaries and Batch file we provide, and double-click on the Batch file `run.cmd` to execute Trinity.
+We provide an executable for running Trinity. Therefore, all you need to do is download the ZIP file above, extract the files, and double-click on the executable `Trinity.exe` to execute Trinity.
 
-During booting, you may see an option to run without installation or to install provided by the Android-x86 system we host. The former allows you to quickly enjoy the journey but makes the virtual storage volatile (i.e., the next boot will erase all data), while the latter may involve more complex configurations (you can find them [here](https://www.android-x86.org/installhowto.html)).
+During booting, you may see an option to run without installation or to install provided by the Android-x86 system we host. The former allows you to quickly enjoy the journey but makes the virtual storage volatile (i.e., the next boot will erase all data), while the latter may involve more complex configurations (you can find them [here](https://github.com/TrinityEmulator/TrinityEmulator/wiki/Guest-OS-Installation-Guide)).
 
 ### Measurement Data
 

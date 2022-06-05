@@ -1,4 +1,4 @@
-## Trinity: Desirable Mobile Emulation through Graphics Projection
+## Trinity: High-Performance Mobile Emulation through Graphics Projection
 
 ![version](https://img.shields.io/badge/Version-Beta-yellow "Beta")
 ![license](https://img.shields.io/badge/GuestOS-Androidx86-green "Android")
